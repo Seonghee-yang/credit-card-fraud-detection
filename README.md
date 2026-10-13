@@ -5,6 +5,9 @@
 
 📄 분석 과정 전체(시각화 포함)는 포트폴리오 PDF 에 정리되어 있습니다. 이 문서는 프로젝트 요약이며, 코드와 설계 과정은 notebooks/에서 확인하실 수 있습니다.
 
+## 📊 Tableau Dashboard
+🔗 **[Tableau Public Dashboard](https://public.tableau.com/app/profile/.55641854/vizzes)**
+
 
 ## 🎯 Analysis Objective
 **"FN과 FP의 비용이 다른 상황에서, 실제 금융 손실을 최소화할 수 있는 모델과 탐지 기준은 무엇인가?"**
@@ -168,9 +171,6 @@ Elliptic Envelope의 이상치 스코어를 운영 관점의 위험도로 구분
 
 
 > 모든 이상거래를 일괄 차단하는 대신 위험도에 따라 대응 수준을 차등화하여,**탐지 성능과 고객 경험 사이의 균형을 고려한 FDS 운영 구조**를 제안하였습니다.
-
-## 📊 Tableau Dashboard
-🔗 **[Tableau Public Dashboard]("https://public.tableau.com/app/profile/.55641854/vizzes")**
 
 ## 📁 Repository Structure
 ```
