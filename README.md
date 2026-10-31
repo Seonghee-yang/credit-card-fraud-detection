@@ -181,19 +181,13 @@ credit-card-fraud-detection/
 ├── data/
 │   └── README.md
 │
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_model_comparison.ipynb
-│   ├── 03_hyperparameter_tuning.ipynb
-│   ├── 04_cost_optimization.ipynb
-│   ├── 05_xai_shap.ipynb
-│   └── 06_operational_strategy.ipynb
-│
-└── outputs/
-    ├── model_comparison.png
-    ├── cost_comparison.png
-    ├── confusion_matrix.png
-    └── shap_summary.png
+└── notebooks/
+    ├── 01_eda.ipynb
+    ├── 02_model_comparison.ipynb
+    ├── 03_hyperparameter_tuning.ipynb
+    ├── 04_cost_optimization.ipynb
+    ├── 05_xai_shap.ipynb
+    └── 06_operational_strategy.ipynb
 ```
 
 ## 🔄 Analysis Flow
