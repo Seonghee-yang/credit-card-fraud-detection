@@ -190,32 +190,6 @@ credit-card-fraud-detection/
     └── 06_operational_strategy.ipynb
 ```
 
-## 🔄 Analysis Flow
-
-01. [EDA](notebooks/01_eda.ipynb)
-    
-    → 이상거래 데이터의 구조와 분포 확인
-
-02. [Model Comparison](notebooks/02_model_comparison.ipynb)
-    
-    → Isolation Forest / AutoEncoder / Elliptic Envelope 탐지 성능 비교
-
-03. [Hyperparameter Tuning](notebooks/03_hyperparameter_tuning.ipynb)
-    
-    → contamination 및 주요 설정값 비교
-
-04. [Cost Optimization](notebooks/04_cost_optimization.ipynb)
-    
-    → FN/FP의 비대칭적 비용을 반영하여 최종 모델과 탐지 임계값 결정
-
-05. [XAI](notebooks/05_xai_shap.ipynb)
-    
-    → SHAP을 활용해 모델의 주요 판단 변수와 개별 거래의 판단 근거 분석
-
-06. [Operational Strategy](notebooks/06_operational_strategy.ipynb)
-    
-    → 이상치 점수를 위험도별로 구분하고 FDS 운영 대응 전략 설계
-    
 
 ## 🏆 Competition Background
 [Dacon — 신용카드 사기 거래 탐지 AI 경진대회]
